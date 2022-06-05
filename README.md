@@ -1,4 +1,4 @@
 # tugasTeknikKompresi
 
-Dosen Pengampu : Boko Susilo
-Oleh : Adha Dont Differatama
+- Dosen Pengampu : Boko Susilo
+- Oleh : Adha Dont Differatama
